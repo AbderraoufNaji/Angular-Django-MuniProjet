@@ -1,0 +1,15 @@
+.navbar-fixed-top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  padding-bottom: 50%;
+}
+
+.fs-4 fw-bold text-primary{
+text-shadow: 2px 2px red;
+}
+h1 {
+  text-shadow: 2px 2px red;
+}
